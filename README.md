@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**Melvasembiring/Melvasembiring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+		Melva arli theresa sembiring, Amd.rmik
+Perekam Medis
+Tentang Saya
+Saya merupakan seorang lulusan D-III Perekam dan Informasi Kesehatan dari Universitas Imelda Medan dan saat ini saya sedang melanjutkan studi D-IV Manajeman Informasi Kesehatan di Instititu Kesehatan Deli Husada
 
-Here are some ideas to get you started:
+Data diri 
+Nama                              
+Melva Arli Theresa Sembiring, Amd.Rmik
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tempat/Tanggal Lahir  
+Tanjung Morawa, 20-02-2000
+
+Jenis Kelamin                
+Perempuan
+
+Agama                           
+Kristen
+
+Status                              
+Belum Menikah
+
+Alamat                            
+Jln Sei Merah Dusun V, Tanjung Morawa A,
+Deli Serdang, Sumatera Utara
+
+Telepon
+0822-7466-9148
+
+Email
+Melvaarli20@gmail.com
+		Pendidikan
+Universitas Imelda Medan
+D-III Perekam dan Informasi Kesehatan | 2018-2021
+KEAHLIAN UTAMA
+Rsu Mitra Sehat | 2022-Saat Ini
+Perekam Medis
+-Sistem Informasi Rumah Sakit
+-ICD-10
+-Manajemen Data Kesehatan
+-Pengarsipan dan Filling
+
